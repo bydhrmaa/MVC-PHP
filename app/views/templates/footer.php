@@ -1,4 +1,4 @@
 </body>
 
-<script src="<?=BASE_URL;?>/js/sb-admin-2.min.js"></script>
+<script src="<?=BASE_URL;?>/js/bootstrap.bundle.min.js"></script>
 </html>
