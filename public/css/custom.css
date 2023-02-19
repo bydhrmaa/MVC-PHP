@@ -1,3 +1,11 @@
-.text-navbar {
+.text-brand {
   font-size: 25px !important;
+}
+
+.nav-text {
+  font-size: 16px !important;
+}
+
+.bg-content-1 {
+  background-color: #0d6dfd13 !important;
 }
